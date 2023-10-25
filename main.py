@@ -1,3 +1,5 @@
+# Tian and Aaron
+# Aaron's code
 def encode(password):
     password = list(password)
     for i in range(0,len(password)):
